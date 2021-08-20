@@ -1713,8 +1713,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/bluecom_city.png", id:"bluecom_city"},
-		{src:"images/City_Animation_atlas_1.png", id:"City_Animation_atlas_1"}
+		{src:"https://gramotic.github.io/images/bluecom_city.png", id:"bluecom_city"},
+		{src:"https://gramotic.github.io/images/City_Animation_atlas_1.png", id:"City_Animation_atlas_1"}
 	],
 	preloads: []
 };
