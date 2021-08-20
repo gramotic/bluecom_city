@@ -1143,7 +1143,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_sport.on("mouseover",function(e){ 
@@ -1187,7 +1187,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_rathaus.on("mouseover",function(e){ 
@@ -1231,7 +1231,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_privat.on("mouseover",function(e){ 
@@ -1275,7 +1275,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_parken.on("mouseover",function(e){ 
@@ -1319,7 +1319,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_krankenhaus.on("mouseover",function(e){ 
@@ -1363,7 +1363,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_industrie.on("mouseover",function(e){ 
@@ -1407,7 +1407,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_hotel.on("mouseover",function(e){ 
@@ -1451,7 +1451,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_cafe.on("mouseover",function(e){ 
@@ -1495,7 +1495,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_buero.on("mouseover",function(e){ 
@@ -1539,7 +1539,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.open('https://www.bluecom-gmbh.de/agrar', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/agrar', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_agrar.on("mouseover",function(e){ 
