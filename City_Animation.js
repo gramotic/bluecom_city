@@ -1231,7 +1231,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Lädt die URL in einem neuen Browserfenster.
 		*/
-		window.location.replace('https://www.bluecom-gmbh.de/gewerbe', '_blank');
+		window.location.replace('https://www.bluecom-gmbh.de/privat', '_blank');
 		});
 		
 		stage.enableMouseOver(10); this.hover_over_privat.on("mouseover",function(e){ 
